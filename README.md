@@ -1,5 +1,5 @@
 # Praktikum-Semester-2
-Laporan Praktikum Semester 2
+Laporan Praktikum Semester 2 - Pemrograman Lanjut
 
 Fakultas Ilmu Komputer
 
